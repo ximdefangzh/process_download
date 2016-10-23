@@ -1,0 +1,2 @@
+# process_download
+抽取SDWebImage中的下载进度代码
